@@ -1,8 +1,7 @@
 ---
-name: Condimentum Vitae Sapien Pellentesque
+name: Current and Future works: Social Norms
 speakers:
-  - Tolga Philip
-  - Alex Rosales
+  - Ajaykumar Manivannan
 categories:
   - Cat A
   - Talk
