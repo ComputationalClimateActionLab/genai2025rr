@@ -1,5 +1,5 @@
 ---
-name: Current and Future works: Social Norms
+name: Current and Future works - Social Norms
 speakers:
   - Ajaykumar Manivannan
 categories:
