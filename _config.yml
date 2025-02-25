@@ -1,7 +1,7 @@
 title: Research Retreat 2025
 preposition: ''
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+  ''Exploring new generative AI methods for understanding dynamic complex social and socio-ecological systems” 9th – 13th June 2025 in Brussels (Double Tree By Hilton Brussels City Hotel, Rue Gineste 3, 1210 Brussels)
 baseurl: "/genai2025rr" # the subpath of your site, e.g. /blog
 url: "https://ajaymanivannan.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -107,13 +107,12 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Welcome to 2025 Research Retreat on GenAI for Social and Socio-Ecological Systems
+    - title: Welcome to 2025 Research Retreat on ''Exploring new generative AI methods for understanding dynamic complex social and socio-ecological systems”
       color: primary
       main_only: true
       text: |
         Hello All. Work in Progress.
 
-        # See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
     - text: This is just some random content for demonstration purposes.
       color: warning
       pages_only: true
