@@ -3,7 +3,7 @@ name: Introduction by AI
 speakers:
   - AI
 categories:
-  - Cat A
+  - Talks
   - Talk
 #links:
 #  - name: Recodring
