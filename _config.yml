@@ -107,7 +107,7 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Welcome to 2025 Research Retreat on ''Exploring new generative AI methods for understanding dynamic complex social and socio-ecological systems”
+    - title: Welcome to the 2025 Research Retreat
       color: primary
       main_only: true
       text: |
