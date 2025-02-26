@@ -5,13 +5,21 @@ days:
   rooms:
   - name: Room A
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
-        time_start: '12:00'
-        time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
-        time_start: '12:45'
-        time_end: '13:30'
-
+      - name: Arrival, Registration, Coffee
+        time_start: '16:00'
+        time_end: '16:30'
+      - name: Welcome note from Viktoria
+        time_start: '16:30'
+        time_end: '17:00'
+      - name: Social Norms: Current and Future works 
+        time_start: '17:00'
+        time_end: '17:30'
+      - name: Introduction by AI
+        time_start: '17:30'
+        time_end: '18:00'
+      - name: Dinner
+        time_start: '18:00'
+        time_end: '19:00'        
   # - name: Room B
   #   talks:
   #     - name: Arcu Non Odio
@@ -29,36 +37,138 @@ days:
   rooms:
   - name: Room A
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
+      - name: Detecting social norms in online climate discourse using LLMs
+        time_start: '09:00'
+        time_end: '09:30'
+      - name: Analyzing media coverage of climate change and climate activism using large language models
+        time_start: '09:30'
+        time_end: '10:00'
+      - name: TBC by Jordan Everall
+        time_start: '10:00'
+        time_end: '10:30'
+      - name: Coffee Break
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Towards a Foundation Model for Socioeconomic and Climate Interactions
+        time_start: '11:00'
+        time_end: '11:30'
+      - name: Ecosystems are showing symptoms of resilience loss
+        time_start: '11:30'
+        time_end: '12:00'
+      - name: Lunch Break
         time_start: '12:00'
-        time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
-        time_start: '12:45'
+        time_end: '13:00'
+      - name: Synthetic surveys for social simulation
+        time_start: '13:00'
         time_end: '13:30'
+      - name: Open Gen AI infrastructure for social science experiments and analysis
+        time_start: '13:30'
+        time_end: '14:00'
+      - name: LLM-based simulations
+        time_start: '14:00'
+        time_end: '14:30'
+      - name: Coffee Break
+        time_start: '14:30'
+        time_end: '15:30'
+      - name:  Rethinking Urban Futures: Generative AI and Scenario Exploration in Urban Digital Twins
+        time_start: '15:30'
+        time_end: '16:00'
+      - name: LLM-driven digital twins of social media platforms
+        time_start: '16:00'
+        time_end: '16:30'
+      - name: Generative AI to Leverage Research Evidence to Inform Risk Analysis with Different Personas
+        time_start: '16:30'
+        time_end: '17:00'
+      - name: Discussion time 
+        time_start: '17:00'
+        time_end: '18:00'
+      - name: Dinner
+        time_start: '18:00'
+        time_end: '19:00'
+
 - name: Wednesday
   abbr: Wed
   date: 2025-06-11
   rooms:
   - name: Room A
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
+      - name: Google Deepmind's Concordia Agent-Based-Modelling Training Day 
+        time_start: '09:00'
+        time_end: '10:30'
+        
+      - name: Coffee Break
+        time_start: '10:30'
+        time_end: '11:00'
+        
+      - name: Google Deepmind's Concordia Agent-Based-Modelling Training Day 
+        time_start: '11:00'
+        time_end: '12:00' 
+        
+      - name: Lunch Break
         time_start: '12:00'
-        time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
-        time_start: '12:45'
-        time_end: '13:30'
+        time_end: '13:00'
+        
+      - name: Google Deepmind's Concordia Agent-Based-Modelling Training Day 
+        time_start: '13:00'
+        time_end: '14:30' 
+        
+      - name: Coffee Break
+        time_start: '14:30'
+        time_end: '15:30'
+
+      - name: Google Deepmind's Concordia Agent-Based-Modelling Training Day 
+        time_start: '15:30'
+        time_end: '18:00' 
+        
+      - name: Dinner
+        time_start: '18:00'
+        time_end: '19:00'
+        
 - name: Thursday
   abbr: Thu
   date: 2025-06-12
   rooms:
   - name: Room A
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
+      - name: ML-based methods for extracting hierarchies of world models for sequential AI decision making from socio-ecological systems models
+        time_start: '09:00'
+        time_end: '09:30'
+      - name:  Human-machine social systems
+        time_start: '09:30'
+        time_end: '10:00'
+      - name: AI you can trust: bringing public voices into AI assurance
+        time_start: '10:00'
+        time_end: '10:30'
+      - name: Coffee Break
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Developing scientific smart agents to communicate complex environmental data
+        time_start: '11:00'
+        time_end: '11:30'
+      - name: TBC by Ilona Otto
+        time_start: '11:30'
+        time_end: '12:00'
+      - name: Lunch Break
         time_start: '12:00'
-        time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
-        time_start: '12:45'
+        time_end: '13:00'
+      - name: Large Language Model agents can coordinate beyond human scale
+        time_start: '13:00'
         time_end: '13:30'
+      - name: TBC by James Evans
+        time_start: '13:30'
+        time_end: '14:00'
+      - name: TBC by Peter Törnberg
+        time_start: '14:00'
+        time_end: '14:30'
+      - name: Coffee Break
+        time_start: '14:30'
+        time_end: '15:30'
+      - name:  Collaboration time
+        time_start: '15:30'
+        time_end: '18:00'
+      - name: Dinner
+        time_start: '18:00'
+        time_end: '19:00'
 
 - name: Friday
   abbr: Fri
@@ -66,9 +176,21 @@ days:
   rooms:
   - name: Room A
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
+      - name: TBC by Max Falkenberg
+        time_start: '09:00'
+        time_end: '09:30'
+      - name: TBC by Daniel Valdenegro
+        time_start: '09:30'
+        time_end: '10:00'
+      - name: Collective attention patterns in social systems and the potential for intelligent agents
+        time_start: '10:00'
+        time_end: '10:30'
+      - name: Coffee Break
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Conclusion
+        time_start: '11:00'
+        time_end: '12:00'
+      - name: Lunch Break
         time_start: '12:00'
-        time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
-        time_start: '12:45'
-        time_end: '13:30'
+        time_end: '13:00'
