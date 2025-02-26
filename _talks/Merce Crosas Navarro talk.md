@@ -3,7 +3,7 @@ name: Open Gen AI infrastructure for social science experiments and analysis
 speakers:
   - Merce Crosas Navarro
 categories:
-  - Cat B
+  - Talks
   - Talk
 ---
 
