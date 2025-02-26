@@ -176,7 +176,7 @@ days:
   rooms:
   - name: Room A
     talks:
-      - name: TBC by Max Falkenberg
+      - name: Leveraging network science and large language models to understand the structure and content of climate narratives in the media
         time_start: '09:00'
         time_end: '09:30'
       - name: TBC by Daniel Valdenegro
