@@ -3,7 +3,7 @@ name: Analyzing media coverage of climate change and climate activism using larg
 speakers:
   - Fabian Dablander
 categories:
-  - Cat B
+  - Talks
   - Talk
 ---
 
