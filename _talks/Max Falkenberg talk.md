@@ -3,7 +3,7 @@ name: Leveraging network science and large language models to understand the str
 speakers:
   - Max Falkenberg
 categories:
-  - Cat B
+  - Talks
   - Talk
 ---
 
