@@ -5,5 +5,5 @@ speakers:
 categories:
   - Cat A
   - Talk
-hide: true
+hide: False
 ---
