@@ -11,7 +11,7 @@ days:
       - name: Welcome note from Viktoria
         time_start: '16:30'
         time_end: '17:00'
-      - name: Social Norms: Current and Future works 
+      - name: Social Norms - Current and Future works 
         time_start: '17:00'
         time_end: '17:30'
       - name: Introduction by AI
@@ -70,7 +70,7 @@ days:
       - name: Coffee Break
         time_start: '14:30'
         time_end: '15:30'
-      - name:  Rethinking Urban Futures: Generative AI and Scenario Exploration in Urban Digital Twins
+      - name:  Rethinking Urban Futures - Generative AI and Scenario Exploration in Urban Digital Twins
         time_start: '15:30'
         time_end: '16:00'
       - name: LLM-driven digital twins of social media platforms
@@ -136,7 +136,7 @@ days:
       - name:  Human-machine social systems
         time_start: '09:30'
         time_end: '10:00'
-      - name: AI you can trust: bringing public voices into AI assurance
+      - name: AI you can trust - bringing public voices into AI assurance
         time_start: '10:00'
         time_end: '10:30'
       - name: Coffee Break
