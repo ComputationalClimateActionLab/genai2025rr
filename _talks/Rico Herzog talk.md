@@ -3,7 +3,7 @@ name: Rethinking Urban Futures - Generative AI and Scenario Exploration in Urban
 speakers:
   - Rico Herzog
 categories:
-  - Cat B
+  - Talks
   - Talk
 ---
 
