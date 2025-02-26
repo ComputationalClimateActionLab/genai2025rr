@@ -135,11 +135,12 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
+      - name: Intros
         color: info
-      - name: Cat B
+      - name: Talks
         color: success
-
+      - name: Workshop
+        color: warning
     # Hide icons on talk overview page
     hide_icons: false
 
