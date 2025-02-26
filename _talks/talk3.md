@@ -3,7 +3,7 @@ name: Introduction by AI
 speakers:
   - AI
 categories:
-  - Talks
+  - Intros
   - Talk
 #links:
 #  - name: Recodring
