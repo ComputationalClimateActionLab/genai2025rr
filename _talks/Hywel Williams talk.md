@@ -3,7 +3,7 @@ name: Developing scientific smart agents to communicate complex environmental da
 speakers:
   - Hywel Williams
 categories:
-  - Cat B
+  - Talks
   - Talk
 ---
 
