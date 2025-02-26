@@ -3,7 +3,7 @@ name: ML-based methods for extracting hierarchies of world models for sequential
 speakers:
   - Jobst Heitzig
 categories:
-  - Cat B
+  - Talks
   - Talk
 ---
 
