@@ -101,9 +101,9 @@ conference:
         relative_url: /program/
       - name: How to get there
         relative_url: /location/
-      - name: Tickets
-        disabled: true
-        absolute_url: ''
+      # - name: Tickets
+      #   disabled: true
+      #   absolute_url: ''
 
   # Information boxes
   info_bars:
@@ -113,7 +113,7 @@ conference:
       text: |
         Hello All. Work in Progress.
 
-    - text: This is just some random content for demonstration purposes.
+    - text: To display any info to be brought to attention
       color: warning
       pages_only: true
 
