@@ -1,7 +1,7 @@
 ---
 name: Collaboration time
 categories:
-  - Group Discussion 
+  - Group Discussion
 ---
 
 Description:
