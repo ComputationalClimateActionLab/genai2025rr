@@ -143,6 +143,8 @@ conference:
         color: warning
       - name: Breaks
         color: light
+      - name: Group Discussion
+        color: alert
     # Hide icons on talk overview page
     hide_icons: false
 
