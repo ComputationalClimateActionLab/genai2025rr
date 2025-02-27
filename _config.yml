@@ -142,7 +142,7 @@ conference:
       - name: Workshop
         color: warning
       - name: Group Discussion
-        color: alert
+        color: secondary
       - name: Breaks
         color: light
     # Hide icons on talk overview page
