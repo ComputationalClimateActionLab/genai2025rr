@@ -3,7 +3,7 @@ name: Collective attention patterns in social systems and the potential for inte
 speakers:
   - Tristan Cann
 categories:
-  - Cat B
+  - Talks
   - Talk
 ---
 
