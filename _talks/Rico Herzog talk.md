@@ -4,7 +4,6 @@ speakers:
   - Rico Herzog
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
