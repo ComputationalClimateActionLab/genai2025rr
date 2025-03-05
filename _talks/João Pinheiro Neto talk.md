@@ -4,7 +4,6 @@ speakers:
   - João Pinheiro Neto
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
