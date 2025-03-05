@@ -4,7 +4,6 @@ speakers:
   - Jordan Everall
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
