@@ -1,5 +1,5 @@
 ---
-name: Discussion time
+name: Open Discussion
 categories:
   - Group Discussion 
 ---
