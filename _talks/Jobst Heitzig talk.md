@@ -4,7 +4,6 @@ speakers:
   - Jobst Heitzig
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
