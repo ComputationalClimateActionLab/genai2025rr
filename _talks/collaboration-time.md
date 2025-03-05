@@ -1,5 +1,5 @@
 ---
-name: Collaboration time
+name: Free Explorations of Collaboration Opportunities
 categories:
   - Group Discussion
 ---
