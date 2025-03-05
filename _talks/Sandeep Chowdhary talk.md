@@ -4,7 +4,6 @@ speakers:
   - Sandeep Chowdhary
 categories:
   - Talks
-  - Talk
 ---
 
 Description: 
