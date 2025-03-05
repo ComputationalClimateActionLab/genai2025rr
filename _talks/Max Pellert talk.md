@@ -4,7 +4,6 @@ speakers:
   - Max Pellert
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
