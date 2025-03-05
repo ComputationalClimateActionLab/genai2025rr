@@ -1,10 +1,9 @@
 ---
-name: Welcome note from Viktoria
+name: Welcome note
 speakers:
   - Viktoria Spaiser
 categories:
   - Intros
-  - Talk
 ---
 
 Description: Welcome note
