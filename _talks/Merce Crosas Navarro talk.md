@@ -4,7 +4,6 @@ speakers:
   - Merce Crosas Navarro
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
