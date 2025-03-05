@@ -4,7 +4,6 @@ speakers:
   - Aleksandra Berditchevskaia
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
