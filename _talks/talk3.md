@@ -1,10 +1,9 @@
 ---
-name: Introduction by AI
+name: AI-Introducing participants
 speakers:
   - AI
 categories:
   - Intros
-  - Talk
 #links:
 #  - name: Recodring
 #    icon: video
