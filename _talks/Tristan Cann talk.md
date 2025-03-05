@@ -4,7 +4,6 @@ speakers:
   - Tristan Cann
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
