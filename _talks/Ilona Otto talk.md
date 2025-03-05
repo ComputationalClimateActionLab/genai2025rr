@@ -4,7 +4,6 @@ speakers:
   - Ilona Otto
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
