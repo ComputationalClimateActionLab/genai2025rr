@@ -4,7 +4,6 @@ speakers:
   - Peter Törnberg
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
