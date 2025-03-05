@@ -1,10 +1,10 @@
 ---
-name: TBC by Daniel Valdenegro
+name: Using generative AI to generate images for experiments
+
 speakers:
   - Daniel Valdenegro
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
