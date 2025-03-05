@@ -4,7 +4,6 @@ speakers:
   - Milena Tsvetkova
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
