@@ -4,7 +4,6 @@ speakers:
   - Indira Sen
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
