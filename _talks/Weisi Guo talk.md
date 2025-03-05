@@ -4,7 +4,6 @@ speakers:
   - Weisi Guo
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
