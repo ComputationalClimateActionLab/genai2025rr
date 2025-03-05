@@ -1,10 +1,9 @@
 ---
-name: Google Deepmind's Concordia Agent-Based-Modelling Training Day
+name: Generative AI Agent-Based Modelling, Concordia Training Day
 speakers:
   - Alexander Sasha Vezhnevets
 categories:
   - Workshop
-  - Talk
 ---
 
 Description:
