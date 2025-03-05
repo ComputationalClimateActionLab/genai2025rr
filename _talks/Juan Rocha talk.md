@@ -4,7 +4,6 @@ speakers:
   - Juan Rocha
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
