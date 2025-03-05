@@ -4,7 +4,6 @@ speakers:
   - Fabian Dablander
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
