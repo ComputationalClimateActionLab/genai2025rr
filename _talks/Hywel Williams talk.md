@@ -4,7 +4,6 @@ speakers:
   - Hywel Williams
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
