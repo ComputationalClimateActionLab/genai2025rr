@@ -3,7 +3,7 @@ days:
   abbr: Mon
   date: 2025-06-09
   rooms:
-  - name: Room A
+  - name: Monday (09-Jun-2025)
     talks:
       - name: Arrival, Registration, Coffee
         time_start: '16:00'
@@ -35,7 +35,7 @@ days:
   #   abbr: Tue
   #   date: 2025-06-10
   #   rooms:
-  - name: Room B
+  - name: Tuesday (10-Jun-2025)
     talks:
       - name: Detecting social norms in online climate discourse using LLMs
         time_start: '09:00'
@@ -90,7 +90,7 @@ days:
   #   abbr: Wed
   #   date: 2025-06-11
   #   rooms:
-  - name: Room C
+  - name: Wednesday (11-Jun-2025)
     talks:
       - name: Google Deepmind's Concordia Agent-Based-Modelling Training Day 
         time_start: '09:00'
@@ -128,7 +128,7 @@ days:
   #   abbr: Thu
   #   date: 2025-06-12
   #   rooms:
-  - name: Room D
+  - name: Thursday (12-Jun-2025)
     talks:
       - name: ML-based methods for extracting hierarchies of world models for sequential AI decision making from socio-ecological systems models
         time_start: '09:00'
@@ -174,7 +174,7 @@ days:
   #   abbr: Fri
   #   date: 2025-06-13
   #   rooms:
-  - name: Room E
+  - name: Friday (13-Jun-2025)
     talks:
       - name: Leveraging network science and large language models to understand the structure and content of climate narratives in the media
         time_start: '09:00'
