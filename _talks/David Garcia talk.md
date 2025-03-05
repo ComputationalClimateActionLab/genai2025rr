@@ -4,7 +4,6 @@ speakers:
   - David Garcia
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
