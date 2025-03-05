@@ -1,10 +1,9 @@
 ---
-name: TBC by James Evans
+name: TBC
 speakers:
   - James Evans
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
