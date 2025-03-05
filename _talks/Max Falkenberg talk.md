@@ -4,7 +4,6 @@ speakers:
   - Max Falkenberg
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
