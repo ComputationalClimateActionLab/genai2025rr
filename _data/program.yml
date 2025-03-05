@@ -8,13 +8,13 @@ days:
       - name: Arrival, Registration, Coffee
         time_start: '16:00'
         time_end: '16:30'
-      - name: Welcome note from Viktoria
+      - name: Welcome note
         time_start: '16:30'
         time_end: '17:00'
-      - name: Social Norms - Current and Future works 
+      - name: Social change with social norms - current and future works 
         time_start: '17:00'
         time_end: '17:30'
-      - name: Introduction by AI
+      - name: AI-Introducing participants
         time_start: '17:30'
         time_end: '18:00'
       - name: Dinner
@@ -43,7 +43,7 @@ days:
       - name: Analyzing media coverage of climate change and climate activism using large language models
         time_start: '09:30'
         time_end: '10:00'
-      - name: TBC by Jordan Everall
+      - name: Leveraging network science and large language models to understand the structure and content of climate narratives in the media
         time_start: '10:00'
         time_end: '10:30'
       - name: Coffee Break
@@ -79,7 +79,7 @@ days:
       - name: Generative AI to Leverage Research Evidence to Inform Risk Analysis with Different Personas
         time_start: '16:30'
         time_end: '17:00'
-      - name: Discussion time 
+      - name: Open Discussion 
         time_start: '17:00'
         time_end: '18:00'
       - name: Dinner
@@ -92,7 +92,7 @@ days:
   #   rooms:
   - name: Wednesday (11-Jun-2025)
     talks:
-      - name: Google Deepmind's Concordia Agent-Based-Modelling Training Day 
+      - name: Generative AI Agent-Based Modelling, Concordia Training Day
         time_start: '09:00'
         time_end: '10:30'
         
@@ -100,7 +100,7 @@ days:
         time_start: '10:30'
         time_end: '11:00'
         
-      - name: Google Deepmind's Concordia Agent-Based-Modelling Training Day 
+      - name: Generative AI Agent-Based Modelling, Concordia Training Day 
         time_start: '11:00'
         time_end: '12:00' 
         
@@ -108,7 +108,7 @@ days:
         time_start: '12:00'
         time_end: '13:00'
         
-      - name: Google Deepmind's Concordia Agent-Based-Modelling Training Day 
+      - name: Generative AI Agent-Based Modelling, Concordia Training Day 
         time_start: '13:00'
         time_end: '14:30' 
         
@@ -116,7 +116,7 @@ days:
         time_start: '14:30'
         time_end: '15:30'
   
-      - name: Google Deepmind's Concordia Agent-Based-Modelling Training Day 
+      - name: Generative AI Agent-Based Modelling, Concordia Training Day
         time_start: '15:30'
         time_end: '18:00' 
         
@@ -145,7 +145,7 @@ days:
       - name: Developing scientific smart agents to communicate complex environmental data
         time_start: '11:00'
         time_end: '11:30'
-      - name: TBC by Ilona Otto
+      - name: Collective attention patterns in social systems and the potential for intelligent agents
         time_start: '11:30'
         time_end: '12:00'
       - name: Lunch Break
@@ -154,16 +154,16 @@ days:
       - name: Large Language Model agents can coordinate beyond human scale
         time_start: '13:00'
         time_end: '13:30'
-      - name: TBC by James Evans
+      - name: TBC by Peter Törnberg
         time_start: '13:30'
         time_end: '14:00'
-      - name: TBC by Peter Törnberg
+      - name: TBC by James Evans
         time_start: '14:00'
         time_end: '14:30'
       - name: Coffee Break
         time_start: '14:30'
         time_end: '15:30'
-      - name:  Collaboration time
+      - name: Free Explorations of Collaboration Opportunities
         time_start: '15:30'
         time_end: '18:00'
       - name: Dinner
@@ -176,13 +176,13 @@ days:
   #   rooms:
   - name: Friday (13-Jun-2025)
     talks:
-      - name: Leveraging network science and large language models to understand the structure and content of climate narratives in the media
+      - name: Using generative AI to generate images for experiments
         time_start: '09:00'
         time_end: '09:30'
-      - name: TBC by Daniel Valdenegro
+      - name: TBC by Ilona Otto
         time_start: '09:30'
         time_end: '10:00'
-      - name: Collective attention patterns in social systems and the potential for intelligent agents
+      - name: TBC by Ilona Otto
         time_start: '10:00'
         time_end: '10:30'
       - name: Coffee Break
