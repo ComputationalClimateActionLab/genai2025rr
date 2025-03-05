@@ -4,7 +4,6 @@ speakers:
   - Carlos Rodríguez – Pardo
 categories:
   - Talks
-  - Talk
 ---
 
 Description:
