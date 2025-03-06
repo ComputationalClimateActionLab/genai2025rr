@@ -99,7 +99,7 @@ conference:
   # Main landing page
   main:
     # logo:
-    img: 'temp.png'
+    # img: 'temp.png'
     links:
       - name: Program
         relative_url: /program/
