@@ -81,6 +81,9 @@ days:
         time_end: '17:00'
       - name: Open Discussion 
         time_start: '17:00'
+        time_end: '17:30'
+      - name: Break 
+        time_start: '17:30'
         time_end: '18:00'
       - name: Dinner
         time_start: '18:00'
@@ -118,8 +121,10 @@ days:
   
       - name: Generative AI Agent-Based Modelling, Concordia Training Day
         time_start: '15:30'
-        time_end: '18:00' 
-        
+        time_end: '17:30' 
+      - name: Break 
+        time_start: '17:30'
+        time_end: '18:00'       
       - name: Dinner
         time_start: '18:00'
         time_end: '19:00'
@@ -165,6 +170,9 @@ days:
         time_end: '15:30'
       - name: Free Explorations of Collaboration Opportunities
         time_start: '15:30'
+        time_end: '17:30'
+      - name: Break 
+        time_start: '17:30'
         time_end: '18:00'
       - name: Dinner
         time_start: '18:00'
