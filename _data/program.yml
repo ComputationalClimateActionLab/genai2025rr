@@ -184,7 +184,7 @@ days:
   #   rooms:
   - name: Friday (13-Jun-2025)
     talks:
-      - name: Using generative AI to generate images for experiments
+      - name: Stable Diffusion image generation for social experiments - Uses, advantages and drawbacks
         time_start: '09:00'
         time_end: '09:30'
       - name: TBC by Ilona Otto
