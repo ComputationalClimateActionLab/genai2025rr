@@ -3,7 +3,7 @@ name: Daniel Valdenegro
 first_name: Daniel
 last_name: Valdenegro
 links:
-  - name: Profile
+  - name: Link to Profile
     absolute_url: https://www.demography.ox.ac.uk/people/daniel-valdenegro
 ---
 
