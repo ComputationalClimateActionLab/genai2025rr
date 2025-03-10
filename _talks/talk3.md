@@ -1,5 +1,5 @@
 ---
-name: AI-Introducing participants
+name: Introducing participants
 speakers:
   - AI
 categories:
