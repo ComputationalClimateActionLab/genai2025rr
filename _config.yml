@@ -145,7 +145,7 @@ conference:
         color: success
       - name: Workshop
         color: warning
-      - name: Group Discussion
+      - name: Discuss & Collaborate
         color: secondary
       - name: Breaks
         color: light
