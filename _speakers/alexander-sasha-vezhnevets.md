@@ -3,8 +3,8 @@ name: Alexander Sasha Vezhnevets
 first_name: Alexander
 last_name: Sasha Vezhnevets
 links:
-  - name: Profile
-    absolute_url: 
+  - name: Link to Profile
+    absolute_url: https://www.vezhnick.com/
 ---
 
-Bio
+Dr. Alexander Sasha Vezhnevets is a staff research scientist at Google DeepMind. Throughout his career, he has worked on computer vision, hierarchical reinforcement learning, multi-agent reinforcement learning and generative agent based modelling. His current interests are multi-agent systems, social cognition, computational social construction and cultural evolution.
