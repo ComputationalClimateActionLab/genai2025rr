@@ -1,7 +1,7 @@
 ---
 name: Open Discussion
 categories:
-  - Group Discussion 
+  - Discuss & Collaborate
 ---
 
 Description:
