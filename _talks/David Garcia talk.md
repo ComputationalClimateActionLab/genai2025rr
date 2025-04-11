@@ -1,5 +1,6 @@
 ---
-name: Large Language Model agents can coordinate beyond human scale
+name: Simulating social media with LLM agents
+
 speakers:
   - David Garcia
 categories:
