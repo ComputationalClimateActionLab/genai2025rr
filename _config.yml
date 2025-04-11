@@ -110,16 +110,16 @@ conference:
       #   absolute_url: ''
 
   # Information boxes
-  info_bars:
-    - title: Welcome to the 2025 Research Retreat
-      color: primary
-      main_only: true
-      text: |
-        Hello All. Work in Progress.
+  # info_bars:
+  #   - title: Welcome to the 2025 Research Retreat
+  #     color: primary
+  #     main_only: true
+  #     text: |
+  #       Hello All. Work in Progress.
 
-    - text: To display any info to be brought to attention
-      color: warning
-      pages_only: true
+  #   - text: To display any info to be brought to attention
+  #     color: warning
+  #     pages_only: true
 
   # Live indications
   live:
