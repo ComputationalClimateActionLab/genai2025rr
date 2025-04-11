@@ -1,6 +1,6 @@
 ---
 name: Milena Tsvetkova
-first_name: Milenaa
+first_name: Milena
 last_name: Tsvetkova
 links:
   - name: Profile
