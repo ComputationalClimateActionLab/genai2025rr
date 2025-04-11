@@ -61,7 +61,7 @@ days:
       - name: Synthetic surveys for social simulation
         time_start: '13:00'
         time_end: '13:30'
-      - name: Open Gen AI infrastructure for social science experiments and analysis
+      - name: Artificial Utopia - Simulation and Intelligent Agents for a Democratised Future
         time_start: '13:30'
         time_end: '14:00'
       - name: LLM-based simulations
@@ -156,13 +156,13 @@ days:
       - name: Lunch Break
         time_start: '12:00'
         time_end: '13:00'
-      - name: Large Language Model agents can coordinate beyond human scale
+      - name: Simulating social media with LLM agents
         time_start: '13:00'
         time_end: '13:30'
-      - name: TBC by Peter Törnberg
+      - name: TBC by Nicolo Pagan
         time_start: '13:30'
         time_end: '14:00'
-      - name: TBC by James Evans
+      - name: Emergent Behaviors in AI Agents Societies
         time_start: '14:00'
         time_end: '14:30'
       - name: Coffee Break
@@ -190,7 +190,7 @@ days:
       - name: TBC by Ilona Otto
         time_start: '09:30'
         time_end: '10:00'
-      - name: TBC by Ilona Otto
+      - name: TBC by Jordan Everall
         time_start: '10:00'
         time_end: '10:30'
       - name: Coffee Break
