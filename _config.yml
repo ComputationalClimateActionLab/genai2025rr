@@ -6,8 +6,8 @@ description: |
   Date: 9th – 13th June 2025
   
   Venue: Brussels, Belgium (Double Tree By Hilton Brussels City Hotel, Rue Gineste 3, 1210 Brussels)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://genai2025rr.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/genai2025rr" # the subpath of your site, e.g. /blog
+url: "https://computationalclimateactionlab.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 markdown: kramdown
