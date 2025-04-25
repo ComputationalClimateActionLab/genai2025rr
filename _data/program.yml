@@ -159,7 +159,7 @@ days:
       - name: Simulating social media with LLM agents
         time_start: '13:00'
         time_end: '13:30'
-      - name: TBC by Nicolo Pagan
+      - name: Validation metrics and approaches of GABMs for social media research
         time_start: '13:30'
         time_end: '14:00'
       - name: Emergent Behaviors in AI Agents Societies
