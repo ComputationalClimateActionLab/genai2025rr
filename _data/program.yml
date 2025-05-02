@@ -187,12 +187,9 @@ days:
       - name: Stable Diffusion image generation for social experiments - Uses, advantages and drawbacks
         time_start: '09:00'
         time_end: '09:30'
-      - name: TBC by Ilona Otto
+      - name: Using AI and simulation tools to explore future narratives
         time_start: '09:30'
         time_end: '10:00'
-      - name: TBC by Jordan Everall
-        time_start: '10:00'
-        time_end: '10:30'
       - name: Coffee Break
         time_start: '10:30'
         time_end: '11:00'
