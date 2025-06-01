@@ -64,7 +64,7 @@ days:
       - name: Artificial Utopia - Simulation and Intelligent Agents for a Democratised Future
         time_start: '13:30'
         time_end: '14:00'
-      - name: LLM-based simulations
+      - name: Evaluating LLM-based Simulations
         time_start: '14:00'
         time_end: '14:30'
       - name: Coffee Break
@@ -190,8 +190,11 @@ days:
       - name: Using AI and simulation tools to explore future narratives
         time_start: '09:30'
         time_end: '10:00'
-      - name: Coffee Break and Check-Out Time
+      - name: Generative Social Science with Large Models
         time_start: '10:00'
+        time_end: '10:30'
+      - name: Coffee Break and Check-Out Time
+        time_start: '10:30'
         time_end: '11:00'
       - name: Conclusion
         time_start: '11:00'
