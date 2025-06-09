@@ -1,5 +1,5 @@
 ---
-name: Challenges and Opportunities for Human-AI Collectives
+name: Generative AI for mapping collective dynamics​
 speakers:
   - Charlie Pilgrim
 categories:
